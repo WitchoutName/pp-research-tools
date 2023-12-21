@@ -1,10 +1,10 @@
 # pp-research-tools
 
-Python notebooks and tools for data science tasks with a faculty research group.
+Python notebooks and tools for data science tasks with a faculty research group [NES@FIT](https://www.fit.vut.cz/research/group/nes@fit/.en).
 
 ## Description
 
-This repo documents my data science work for the Project Exercise class, where I collaborate with a faculty research group on various data analysis and machine learning tasks. I utilize some parts of their [original codebase (dr-playground)](https://github.com/OviOvocny/dr-playground), which is NOT included.
+This repo documents my data science work for the Project Exercise class, where I collaborate with a faculty research group NES@FIT on various data analysis and machine learning tasks. I utilize some parts of their [original codebase (dr-playground)](https://github.com/OviOvocny/dr-playground), which is NOT included.
 
 ## Usage
 
